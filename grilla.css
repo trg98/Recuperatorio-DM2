@@ -9,7 +9,7 @@
 escritorio x-large: número 409
 escritorio normal: número 783
 tablet: número 1028
-mobile: número 1194
+mobile: número 1193
 */
 
 
@@ -344,7 +344,7 @@ margin: 5%;
        }
 
        .transglow:hover {
-       	transform:scale(1.5);
+       	transform:scale(1.3);
        }
 
 
@@ -719,7 +719,7 @@ margin: 5%;
        }
 
        .transglow:hover {
-       	transform:scale(1.5);
+        transform:scale(1.3);
        }
 
 
@@ -1166,11 +1166,10 @@ width: 90%;
 
 .transglow {
        	transition: all 0.3s ease;
-       	width:80%;
        }
 
        .transglow:hover {
-       	transform:scale(1.5);
+        transform:scale(1.3);
        }
 
 .resaltador{
