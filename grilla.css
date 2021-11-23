@@ -6,10 +6,10 @@
 /*grid_container = 3 columnas*/
 
 /* indíce de RESOLUCIONES
-escritorio x-large: número 416
-escritorio normal: número 772
-tablet: número 988
-mobile: número 1119
+escritorio x-large: número 409
+escritorio normal: número 783
+tablet: número 1028
+mobile: número 1194
 */
 
 
@@ -268,7 +268,7 @@ font-family: 'Press Start 2P', cursive;
 border-radius: 35px;
 margin-top: 5%;
 box-shadow: 0px 0px 10px #fff;
-width: 400px;
+width: 600px;
 height: 400px; 
 
 }
@@ -279,7 +279,7 @@ height: 400px;
 border-radius: 35px;
 margin-top: 5%;
 box-shadow: 0px 0px 10px #fff;
-width: 400px;
+width: 350px;
 height: 350px;
 margin-bottom:20px; 
 
@@ -340,7 +340,6 @@ margin: 5%;
 }
 
  .transglow {
-	width:70%; 
        	transition: all 0.3s ease;
        }
 
@@ -653,6 +652,18 @@ height: 400px;
 }
 
 
+.video1 {
+
+border-radius: 35px;
+margin-top: 5%;
+box-shadow: 0px 0px 10px #fff;
+width: 570px;
+height: 400px; 
+
+}
+
+
+
 footer #nombre {float: left;
 margin-left: 35%;
 color: white;
@@ -945,6 +956,18 @@ height: 90%;
 width: 90%;
 
 }
+
+.video1 {
+
+border-radius: 35px;
+margin-top: 5%;
+box-shadow: 0px 0px 10px #fff;
+height: 55%;
+width: 90%;
+
+}
+
+
 
 .fototrata {text-align: center;
  	text-align: center;
@@ -1297,6 +1320,17 @@ box-shadow: 0px 0px 10px #fff;
 
 
 }
+
+.video1 {
+
+border-radius: 35px;
+height: 700px;
+width: 90%;
+box-shadow: 0px 0px 10px #fff;
+
+
+}
+
 
 .maina .fotob {
 
